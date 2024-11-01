@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Vishnu! </h1>
 
-<!--
-**vishnug372/vishnug372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Apps:</h2>
 
-Here are some ideas to get you started:
+- <b> DiaBuddy </b>
+  - [Swift Code](https://github.com/RCode2/Diabuddy4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Machine Learning Projects:</h2>
+
+- <b> Diabetes Risk Classifier </b>
+  - [Model code](https://github.com/vishnug372/DiabetesModel/tree/main)
+- <b> Facial Emotion Detection</b>
+  - [Model Code](https://github.com/vishnug372/FacialEmotionDetection/tree/main)
+- <b> Predicting Student Loan Default Rates  </b>
+  - [Model Code](https://github.com/vishnug372/PredictingStudentLoanDefaultRates/tree/main)
+  
