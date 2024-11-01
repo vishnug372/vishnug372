@@ -3,7 +3,7 @@
 <h2>👨‍💻 Apps:</h2>
 
 - <b> DiaBuddy </b>
-  - [Swift Code](https://github.com/404-ma/Diabuddy4)
+  - [Swift Code](https://github.com/DiabuddyCSW-Cab/Diabuddy4)
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
