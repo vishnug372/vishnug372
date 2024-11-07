@@ -25,3 +25,50 @@ I am a senior in highschool and an aspiring computer scientist.
   - Using a database of colleges, created a model to best predict student loan default rates
   - Used R programming language
   
+## 🛠 Tech Stack:
+
+The tools I am familiar with
+
+### 📱 iOS App Engineering:
+
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift&logoColor=03c3ff)
+![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)
+
+### 💻 Full Stack Web Engineering:
+
+
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+
+
+### 🚀 Other Tools and Languages
+
+**Other Languages**
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle)
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=276DC3)
+
+**Data Science Tools**
+
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
+![MatPlotLib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
+
+**VFX/GFX tools**
+
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Sony Vegas](https://img.shields.io/badge/VEGAS-1A1A1A.svg?style=for-the-badge&logo=VEGAS&logoColor=white)
+
+**Certifications**
+
+![GenCyber Cybersecrity Certification](https://img.shields.io/badge/GenCyber/NSA/NSF_Cybersecurity_Certification-blue)
