@@ -54,10 +54,11 @@ The tools I am familiar with
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=276DC3)
 
 **Data Science Tools**
-
+![Sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
 ![MatPlotLib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
 
 **VFX/GFX tools**
@@ -71,4 +72,4 @@ The tools I am familiar with
 
 **Certifications**
 
-![GenCyber Cybersecrity Certification](https://img.shields.io/badge/GenCyber/NSA/NSF_Cybersecurity_Certification-blue)
+![GenCyber Cybersecrity Certification](https://img.shields.io/badge/GenCyber/NSA/NSF_Cybersecurity_Certification-blue) April 2024
