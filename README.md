@@ -18,6 +18,7 @@ I am a senior in highschool and an aspiring computer scientist.
 - <b> Facial Emotion Detection</b>
   - [Model Code](https://github.com/vishnug372/FacialEmotionDetection/tree/main)
   - Used various models (neural networks, knn) to classify a specific emotion given an image of a face
+  - Made in Google Colab using python -- tensorflow, keras
   - Used euclidian distance to analyze points across the face
 - <b> Predicting Student Loan Default Rates  </b>
   - [Model Code](https://github.com/vishnug372/PredictingStudentLoanDefaultRates/tree/main)
